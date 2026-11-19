@@ -13,3 +13,5 @@ A small Windows app that adds falling snow over the desktop. Minimize the settin
 - **Turn off snow** closes the app.
 
 Snow appears over the screen, but the overlay should not block clicks on icons or windows. Snow builds up along the bottom edge; the app does not currently detect individual icon shapes.
+
+
